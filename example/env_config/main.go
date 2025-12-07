@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ilyakaznacheev/cleanenv"
+	"github.com/rtkext/rcleanenv"
 )
 
 type config struct {

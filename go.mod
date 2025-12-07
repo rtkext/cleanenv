@@ -1,4 +1,4 @@
-module github.com/rtkext/cleanenv
+module github.com/rtkext/rcleanenv
 
 require (
 	github.com/BurntSushi/toml v1.2.1

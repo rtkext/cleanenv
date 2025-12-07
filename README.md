@@ -1,5 +1,8 @@
 ![Clean Env](logo.svg)
 
+##  This fork exists only to avoid getting involved with the fucking slowpoke that is the original author.
+
+### (seriously, create a new tag with changes or delegate maintaining of this library)
 # Clean Env
 
 Minimalistic configuration reader
